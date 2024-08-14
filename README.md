@@ -1,6 +1,6 @@
 # A Equação de Laplace para Navegação de Robôs Móveis
 
-<img width="700" src="https://raw.githubusercontent.com/JonathanRaniereM/robot_simulation/representation/simulation.gif">
+<img width="700" src="https://raw.githubusercontent.com/JonathanRaniereM/representation/simulation.gif">
 
 ## Sobre o Projeto
 
